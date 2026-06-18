@@ -12,9 +12,11 @@ economics, and ships a complete, validated model.
 > and the MATLAB Agentic Toolkit (execution).
 
 <p align="center">
-  <img src="user-project/results/irf_tfp.png" width="640"
+  <img src="https://raw.githubusercontent.com/wenddymacro/243dynare_AI_Agent/main/assets/irf_tfp.png"
+       width="640"
        alt="RBC impulse responses to a TFP shock, generated end-to-end by the pipeline">
   <br>
+</p>
   <em>Demo output: RBC impulse responses to a TFP shock — generated end-to-end by the pipeline
   (see <a href="Xu, Wenli and Shi, Kang, MacroModelClaw: An AI-Collaborative Workflow for DSGE Model Development (June 18, 2026). Available at SSRN: https://ssrn.com/abstract=">the paper</a>, §3).</em>
 
