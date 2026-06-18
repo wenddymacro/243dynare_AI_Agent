@@ -1,0 +1,9 @@
+description: >
+  Core Dynare skills for AI coding agents. Environment setup, path configuration,
+  and error diagnostics for Dynare 6.x DSGE modeling. All users install this plugin;
+  dynare-modeling depends on it.
+keywords:
+  - dynare
+  - dsge
+  - setup
+  - debugging

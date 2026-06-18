@@ -1,0 +1,23 @@
+name = "SteadyStateMCP"
+uuid = "5c3a9e1b-0d2f-4a7c-9b6e-1f8d4c2a7e30"
+authors = ["MacroModelClaw"]
+version = "0.1.0"
+
+# Julia steady-state MCP server for MacroModelClaw.
+#
+#   Philosophy : MacroModelling.jl NSSS approach (symbolic reduction + block
+#                decomposition + calibration folding) with NonlinearSolve.jl as
+#                the numerical engine (polyalgorithm fallback + box transforms).
+#   Replaces   : LLMacro-Dynare-LSP `dynare_compute_steady_state` (Python).
+#
+# Pin versions in your local Manifest.toml after a successful `Pkg.instantiate`.
+
+[deps]
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+MacroModelling = "687ffad2-3618-405e-ac50-e0f7b9c75e44"
+NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
+RuntimeGeneratedFunctions = "7e49a35a-f44a-4d26-94aa-eba1b4ca6b47"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+julia = "1.10"

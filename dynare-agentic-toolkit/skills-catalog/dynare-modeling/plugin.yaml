@@ -1,0 +1,13 @@
+description: >
+  Dynare DSGE modeling skills for AI coding agents. Write .mod files with nonlinear
+  equilibrium equations, solve steady states numerically, generate and plot impulse
+  response functions, and post-process Dynare output structures (oo_, M_, options_).
+  Requires dynare-core plugin.
+keywords:
+  - dynare
+  - dsge
+  - mod-file
+  - steady-state
+  - irf
+  - perturbation
+  - postprocess
