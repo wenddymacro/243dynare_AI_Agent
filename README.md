@@ -25,11 +25,12 @@ economics, and ships a complete, validated model.
 
 ## The pipeline
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wenddymacro/243dynare_AI_Agent/main/arch_diagram.png"
+  <img src="https://raw.githubusercontent.com/wenddymacro/243dynare_AI_Agent/main/arch_workflow.png"
        width="640"
        alt="Figure 1: MacroModelClaw Full Workflow Architecture">
   <br>
 </p>
+
 | Agent | Namesake | Role |
 |---|---|---|
 | **Keynes** | J.M. Keynes | Orchestrator — state machine, circuit breaker |
