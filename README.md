@@ -26,7 +26,7 @@ economics, and ships a complete, validated model.
 ## The pipeline
 <p align="center">
   <img src="https://raw.githubusercontent.com/wenddymacro/243dynare_AI_Agent/main/arch_workflow.png"
-       width="320"
+       width="100%"
        alt="Figure 1: MacroModelClaw Full Workflow Architecture">
   <br>
 </p>
